@@ -1,0 +1,41 @@
+*{
+    font-family: 'Work Sans';
+}
+.plans-section{
+    display: flex;
+    justify-content: space-between;
+}
+.plans-title{
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+.plan-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan-items{
+    justify-content: space-between;
+    margin-right: 150px;
+    align-items: center;
+}
+
+.plan-sub-header{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+}
+
+.txt{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+.plan-img{
+    padding-left: 10px;
+}
