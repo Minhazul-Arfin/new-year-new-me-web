@@ -1,0 +1,39 @@
+*{
+    font-family: 'Work Sans';
+    margin: 0px;
+}
+.header-container{
+    background-image: url("../images/banner/banner2.png");
+    height: 800px;
+    margin-top: 0px;
+}
+.headline-txt{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 200px;
+    line-height: 76px;
+}
+.basic-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+    padding-right: 100px;
+    line-height: 26px;
+}
+.contact-btn{
+    width: 160px;
+    height: 64px;
+    background-color: #f15b22;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 1070px;
+    margin-top: 30px;
+}
