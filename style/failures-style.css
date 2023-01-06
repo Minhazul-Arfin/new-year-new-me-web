@@ -1,0 +1,46 @@
+*{
+    font-family: 'Work Sans';
+}
+.failure-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+}
+
+.list-container{
+    list-style: none;
+}
+.text-head{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    padding-bottom: 24px;
+}
+.basic-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #5b5a5a;
+    padding-bottom: 10px;
+}
+.list-container{
+    padding-left: 0px;
+}
+.description{
+    padding-top: 250px;
+}
+
+.list-container li{
+    padding: 2px;
+}
+.image-container{
+    background-color: #fcded3;
+    border-radius: 50%;
+    height: 500px;
+    background-position: center;
+    
+    background-position: center;
+}
+
