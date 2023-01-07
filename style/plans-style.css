@@ -4,6 +4,7 @@
 .plans-section{
     display: flex;
     justify-content: space-between;
+    margin-left: 120px;
 }
 .plans-title{
     text-align: center;
@@ -38,4 +39,41 @@
 }
 .plan-img{
     padding-left: 10px;
+}
+
+/* mindset section style */
+.mindset-section{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 130px;
+    margin-top: 120px;
+    display: flex;
+    /* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 0%);
+    border-radius: 8px; */
+}
+.mind-txt{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+}
+.callme-btn{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    border: none;
+    border-radius: 5px;
+}
+.mindset-section > div{
+    padding-left: 100px;
+    align-contents: center;
 }
