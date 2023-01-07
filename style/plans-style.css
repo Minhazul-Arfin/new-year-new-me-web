@@ -17,22 +17,30 @@
     justify-content: space-between;
 }
 
+.plan-img{
+    align: center;
+}
 .plan-items{
     justify-content: space-between;
     margin-right: 150px;
+}
+.plan-items div{
     align-items: center;
 }
-
+.plan-items .plan-img{
+    padding-left: 40px;
+}
 .plan-sub-header{
     font-weight: 700;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 35px;
     color: #151414;
+    text-align: center;
 }
 
 .txt{
     font-weight: 500;
-    font-size: 25px;
+    font-size: 18px;
     line-height: 29px;
     text-align: center;
     color: #737272;
