@@ -11,16 +11,20 @@
     margin-top: 250px;
     margin-bottom: 30px;
 }
-
-
+.plans-section .plan-items .plan-img{
+    align-items: center;
+ }
+.plan-sub-header .plan-sub-header{
+    text-align: center;
+    
+}
 .plan-box{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
-.plan-img{
-    align: center;
-}
+
 .plan-items{
     justify-content: space-between;
     margin-right: 150px;
@@ -130,6 +134,20 @@
     font-weight: 700;
     font-size: 20px;
     color: #181818;
+}
+.what-i-know .icons-0{
+    height: 50px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.what-i-know .para-0{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.what-i-know .title-0{
+    text-align: center;
 }
 .para-0{
     font-weight: 400;
